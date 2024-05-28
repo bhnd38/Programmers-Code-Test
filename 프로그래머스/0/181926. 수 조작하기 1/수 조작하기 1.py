@@ -1,5 +1,4 @@
 def solution(n, control):
-    
     for c in control:
         if c == 'w':
             n+=1
